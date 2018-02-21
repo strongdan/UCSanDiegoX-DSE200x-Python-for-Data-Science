@@ -1,4 +1,4 @@
-# UCSanDiegoX DSE200x: Python for Data Science
+# [UCSanDiegoX DSE200x: Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
 
 EdX course that is part of the Data Science MicroMasters program and will introduce you to a collection of powerful, open-source, tools needed to analyze data and to conduct data science
 
