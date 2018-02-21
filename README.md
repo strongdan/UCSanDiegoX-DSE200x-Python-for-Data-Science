@@ -1,12 +1,10 @@
 # [UCSanDiegoX DSE200x: Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
 
-Learn to use powerful, open-source, Python tools, including Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets.
-
----
-
-EdX course that is part of the Data Science MicroMasters program and will introduce you to a collection of powerful, open-source, tools needed to analyze data and to conduct data science
+EdX course which is part of the Data Science MicroMasters program and will introduce you to a collection of powerful, open-source, tools needed to analyze data and to conduct data science. Learn to use Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets.
 
 The course is broken into 10 weeks.  The beginning of the course is heavily focused on learning the basic tools of data science, but we firmly believe that you learn the most about data science by doing data science.  So the latter half of the course is a combination of working on large projects and introductions to advanced data analysis techniques.
+
+---
 
 - [ ] Week 1 - Introduction:  Welcome and overview of the course.  Introduction to the data science process and the value of learning data science.
 
