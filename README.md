@@ -1,6 +1,6 @@
 # [UCSanDiegoX DSE200x: Python for Data Science](https://www.edx.org/course/python-data-science-uc-san-diegox-dse200x)
 
-Access my JupyterLab notebooks [here](https://mybinder.org/v2/gh/strongdan/UCSanDiegoX-DSE200x-Python-for-Data-Science/master)
+Access JupyterLab notebooks [here](https://mybinder.org/v2/gh/strongdan/UCSanDiegoX-DSE200x-Python-for-Data-Science/master)
 
 EdX course which is part of the Data Science MicroMasters program and will introduce you to a collection of powerful, open-source, tools needed to analyze data and to conduct data science. Learn to use Pandas, Git and Matplotlib, to manipulate, analyze, and visualize complex datasets.
 
